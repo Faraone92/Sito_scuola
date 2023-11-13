@@ -1,0 +1,164 @@
+body {background-color: #252850;}
+{
+  box-sizing: border-box;
+}
+.orario {
+  border: 3px;
+  padding: 3px;
+  text-align:center;
+  font-family: arial black;
+}
+div {
+  display: block;
+}
+}
+body {
+color: white;
+}
+
+h1 {
+color: white;
+}
+
+body {
+color: white;
+}
+
+h2 {
+color: gray;
+}
+  
+html {
+  font-family: "Bahnschrift SemiBold", sans-serif;
+}
+.immagine {
+width: 350px;
+height:320px;
+
+}
+.calciofoto {
+width: 500px;
+height:480px;
+ 
+ margin-top: 50px;
+ margin-left:500px;
+ 
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0a0a0a;
+  border-radius: 10px;
+}
+
+li {
+  float: left;
+  border-radius: 10px;
+}
+
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20;
+  font-family: arial black;
+  border-radius: 10px;
+}
+
+li a:hover:not(.active) {
+  background-color: #252850;
+  border-radius: 10px;
+}
+
+.giorni {
+  font-family: arial black;
+  text-align: center;
+  
+}
+
+
+.aside {
+  background-color: #0a0a0a;
+  padding: 5px;
+  color: ;
+  text-align: center;
+  font-size: 14px;
+ border-radius: 20px;
+}
+
+.footer {
+  background-color: black;
+  color: #ffffff;
+  text-align: center;
+  font-size: 12px;
+  padding: 5px;
+ 
+}
+
+.image{
+ display: flex;
+ justify-content: center;
+ margin-top: 25px;
+}
+
+.nome{
+	text-align: center;
+}
+
+
+td
+{
+	text-align:right
+}
+th
+{
+	text-align:left
+}
+tr.odd td,
+tr.odd th
+{
+	background-color:#D5E4FF;
+}
+caption
+{
+	font-weight:bold;
+	color:#999
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius: 20px;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: black;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
